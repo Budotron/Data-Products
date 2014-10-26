@@ -1,0 +1,16 @@
+---
+title: "Expected Return Calculator"
+author: ""
+date: "October 25, 2014"
+output: html_document
+---
+
+### Thanks for checking out the Expected Return Calculator
+
+With this app, you can determine the expected return you would obtain from investing up to $10 000 in the stocks of 15 of the most highly traded companies on the stock market at current market price, using the minimum variance portfolio. 
+
+You can toggle views between the risk-return portfolio cloud and the efficient frontier plot with the radio button on the left. 
+
+The source code is available on [github](https://github.com/Budotron/Data-Products)
+
+Every portfolio analysis function used in this app belongs to the ```stockPortfolio``` package by David Diez and Nicolas Christou. 
